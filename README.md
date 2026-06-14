@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 📕[Civil Software Engineering Student]
 <br>
 🤝[Looking to collaborate on]
@@ -21,5 +21,7 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AlpacaVT&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-How can i help you?
+## Hobbies
+- Chess ♞
+- Learning Python... yes, yes, I promise to finish reading [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/).
+- Everything related to learn is interesting for me.
