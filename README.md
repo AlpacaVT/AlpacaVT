@@ -1,8 +1,6 @@
 <div align="center">
 
-
-
-### Estudiante de Ingeniería Civil Informática
+### Civil Informatics Engineering Student
 
 <a href="https://www.linkedin.com/in/huilcaman-vicente/">
   <img src="https://img.shields.io/badge/LinkedIn-Vicente%20Huilcaman-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -10,20 +8,21 @@
 <a href="https://github.com/Vicenkks">
   <img src="https://img.shields.io/badge/GitHub-Vicenkks-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Vicenkks&style=flat-square&label=Visitas+al+perfil" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Vicenkks&style=flat-square&label=Profile+views" alt="Profile views"/>
 
 </div>
 
 <br/>
 
-## 👨‍🎓 Sobre mí
+## 👨‍🎓 About me
 
-Estudiante de **Ingeniería Civil Informática**, interesado en el **Machine Learning** y los **Sistemas Operativos**.
-Aún estoy construyendo mi camino en el desarrollo, aprendiendo día a día y con varios proyectos en mente para poner en práctica lo que voy estudiando.
+Civil Informatics Engineering student, interested in **Machine Learning** and **Operating Systems**.
+
+I'm still building my path in development, learning day by day, with several projects in mind to put what I'm studying into practice.
 
 ---
 
-## 💻 Lenguajes
+## 💻 Languages
 
 <div align="center">
 
@@ -35,46 +34,34 @@ Aún estoy construyendo mi camino en el desarrollo, aprendiendo día a día y co
 
 ---
 
-## 🎯 Áreas de interés
+## 🎯 Areas of interest
 
 <div align="center">
 
-`Machine Learning` · `Sistemas Operativos` · `Desarrollo de Software` · `Algoritmos` · `Bajo Nivel`
+`Machine Learning` · `Operating Systems` · `Software Development` · `Algorithms` · `Low Level`
 
 </div>
 
 ---
 
-<!--## 🚧 Proyectos
-
-Todavía no tengo proyectos publicados, ¡pero vienen en camino! 🔨
-
-Estoy planeando explorar proyectos relacionados con **Machine Learning** y **Sistemas Operativos** a medida que avanzo en mis estudios. Vuelve pronto para verlos por aquí.
-
+<!--## 🚧 Projects
+I don't have any published projects yet, but they're on the way! 🔨
+I'm planning to explore projects related to **Machine Learning** and **Operating Systems** as I progress in my studies. Check back soon to see them here.
 ---!-->
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vicenkks&show_icons=true&theme=default&hide_title=false" alt="Estadísticas de GitHub de Vicente"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicenkks&layout=compact&theme=default" alt="Lenguajes más usados"/>
-
-</div>
----
-
-## ♟️ Fuera del teclado
-
-<div align="center">
-
-`Ajedrez` · `Dibujo` · `Aprender cosas nuevas`
+<img height="220" src="https://www.readmecodegen.com/api/github-stats/svg?username=Vicenkks&followers=false&following=false" alt="Vicenkks GitHub statistics"/>
+<img height="220" src="https://www.readmecodegen.com/api/github-stats/svg?username=Vicenkks&cardType=langs&followers=false&following=false"/>
 
 </div>
 
-<br/>
+## ♟️ Off the keyboard
 
 <div align="center">
 
-¡Gracias por pasar por mi perfil! 🚀
+`Chess` · `Drawing` · `Learning new things`
 
 </div>
