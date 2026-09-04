@@ -1,8 +1,8 @@
 <div align="center">
 
-# ¡Hola! Soy Vicente 👋
 
-### Estudiante de Ingeniería Civil Informática — UCT Temuco
+
+### Estudiante de Ingeniería Civil Informática
 
 <a href="https://www.linkedin.com/in/huilcaman-vicente/">
   <img src="https://img.shields.io/badge/LinkedIn-Vicente%20Huilcaman-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -18,10 +18,7 @@
 
 ## 👨‍🎓 Sobre mí
 
-Estudiante de **Ingeniería Civil Informática** en la **Universidad Católica de Temuco (UCT)**, interesado en el **Machine Learning** y los **Sistemas Operativos**.
-
-Fuera del código, me gusta **dibujar** y **jugar ajedrez** ♟️ — dos hobbies que, curiosamente, comparten algo con programar: resolver problemas con paciencia y lógica.
-
+Estudiante de **Ingeniería Civil Informática**, interesado en el **Machine Learning** y los **Sistemas Operativos**.
 Aún estoy construyendo mi camino en el desarrollo, aprendiendo día a día y con varios proyectos en mente para poner en práctica lo que voy estudiando.
 
 ---
@@ -48,13 +45,13 @@ Aún estoy construyendo mi camino en el desarrollo, aprendiendo día a día y co
 
 ---
 
-## 🚧 Proyectos
+<!--## 🚧 Proyectos
 
 Todavía no tengo proyectos publicados, ¡pero vienen en camino! 🔨
 
 Estoy planeando explorar proyectos relacionados con **Machine Learning** y **Sistemas Operativos** a medida que avanzo en mis estudios. Vuelve pronto para verlos por aquí.
 
----
+---!-->
 
 ## 📊 Estadísticas de GitHub
 
@@ -64,11 +61,6 @@ Estoy planeando explorar proyectos relacionados con **Machine Learning** y **Sis
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicenkks&layout=compact&theme=default" alt="Lenguajes más usados"/>
 
 </div>
-
-<p align="center">
-  <sub>Las estadísticas se actualizan automáticamente a medida que subo más código.</sub>
-</p>
-
 ---
 
 ## ♟️ Fuera del teclado
